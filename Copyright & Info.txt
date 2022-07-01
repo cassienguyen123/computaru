@@ -1,6 +1,5 @@
-COPYRIGHT AND INFO ABOUT COMPUTARU 
-
-1. INFOMATION 
+INFOMATION
+--------------------
 Product Name: Computaru 
 Type of product: Open Source Messenger
 Author: Cassie Nguyen 
