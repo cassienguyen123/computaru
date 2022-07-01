@@ -1,7 +1,7 @@
 INFOMATION
 --------------------
 Product Name: Computaru 
-Type of product: Open Source Messenger
+Type of product: Messenger Web Application
 Author: Cassie Nguyen 
 Created Date: July 7, 2022
 Language: HTML & JavaScript 
