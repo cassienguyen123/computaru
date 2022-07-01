@@ -1,0 +1,8 @@
+COPYRIGHT AND INFO ABOUT COMPUTARU 
+
+1. INFOMATION 
+Product Name: Computaru 
+Type of product: Open Source Messenger
+Author: Cassie Nguyen 
+Created Date: July 7, 2022
+Language: HTML & JavaScript 
