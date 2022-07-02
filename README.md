@@ -1,2 +1,2 @@
 # computaru
-This is my own HTML, JavaScript Messenger Web Application!
+This is my HTML, JavaScript Messenger Web Application!
